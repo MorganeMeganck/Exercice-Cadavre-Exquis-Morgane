@@ -13,4 +13,4 @@ allait bien pouvoir faire avec ce couteau ....
 
 Continuant cette __idée__
 
-3. Il commenca à jouer avec ce couteau en le lancant sur l'arbre ou son hamac est attacher.
+3. Il commenca à jouer avec ce couteau en le lancant sur l'arbre ou son hamac est attacher...gitgi
