@@ -10,4 +10,8 @@ Cela lui donna quelques **idées**...
 1. Sa *première idée* fut de mettre **la perruque de longs cheveux blonds** pour pouvoir enfin exprimer sa féminité.
 2. sa *deuxième idée* d'utiliser la corde pour fabriquer un *hammac*, dans lequel il s'installa confortablement pour réfléchir a ce qu'il
 allait bien pouvoir faire avec ce couteau ....
+
 3. Sa troisième idée fut d'apprendre à maitriser git 
+
+4. Sa quatrieme idée était d'utiliser une corde pour grimper dans un arbre à cacahuète puis de les couper tout en portant une perruque de longs cheveux blonds ..(merci JulJulJulJul!!).
+
